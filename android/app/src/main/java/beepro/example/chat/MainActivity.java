@@ -1,4 +1,4 @@
-package com.example.chat;
+package beepro.example.chat;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

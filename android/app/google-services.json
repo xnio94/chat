@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "717301308391",
+    "firebase_url": "https://chat-59138.firebaseio.com",
+    "project_id": "chat-59138",
+    "storage_bucket": "chat-59138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717301308391:android:b1795551bdde9ab4",
+        "android_client_info": {
+          "package_name": "beepro.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717301308391-ccksp09b1ujegn00seskviss69kliie6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAl6AA9slcTiFvq3m9YQtCtI0BbpOs2Bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
