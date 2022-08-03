@@ -1,6 +1,6 @@
-# chat
+# chat mobile app
 
-chat app based on Flutter.
+a very simple chat app built using Flutter and firebase.
 
 ## Getting Started
 
